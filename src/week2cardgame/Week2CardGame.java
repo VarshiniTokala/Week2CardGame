@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *view class - user interaction
- * 
+ * date: 
  * @author VarshiniT
  */
 public class Week2CardGame {
